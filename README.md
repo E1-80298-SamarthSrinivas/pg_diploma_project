@@ -1,1 +1,1 @@
-# pg_deploma_project
+# pg_diploma_project
